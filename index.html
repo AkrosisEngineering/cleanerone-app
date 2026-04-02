@@ -27,8 +27,8 @@
       </a>
 
       <nav class="nav-desktop" aria-label="Primary">
-        <a href="#features" data-i18n="nav_features">Features</a>
-        <a href="#how" data-i18n="nav_how">How It Works</a>
+        <a href="#overview" data-i18n="nav_features">Features</a>
+        <a href="#overview" data-i18n="nav_how">How It Works</a>
         <a href="#screens" data-i18n="nav_screens">Screenshots</a>
       </nav>
 
@@ -37,6 +37,14 @@
           <button class="lang-btn is-active" data-lang="en" type="button">EN</button>
           <button class="lang-btn" data-lang="tr" type="button">TR</button>
         </div>
+        <a class="topbar-badge" href="#" aria-label="Download on the App Store">
+          <img
+            src="assets/app-store-badge.svg"
+            alt="Download on the App Store"
+            width="140"
+            height="46"
+          />
+        </a>
       </div>
     </header>
 
@@ -49,18 +57,28 @@
             <em data-i18n="hero_title_em">without the chaos.</em>
           </h1>
           <p data-i18n="hero_subtitle">
-            CleanerOne finds duplicates, screenshots, and heavy files in minutes so your
-            camera roll stays usable.
+            CleanerOne helps you review duplicates, screenshots, and heavy files in a
+            fast cleanup flow that stays clear from start to finish.
           </p>
 
-          <a class="store-link" href="#" aria-label="Download on the App Store">
-            <img
-              src="assets/app-store-badge.svg"
-              alt="Download on the App Store"
-              width="180"
-              height="60"
-            />
-          </a>
+          <div class="hero-actions">
+            <a class="store-link" href="#" aria-label="Download on the App Store">
+              <img
+                src="assets/app-store-badge.svg"
+                alt="Download on the App Store"
+                width="180"
+                height="60"
+              />
+            </a>
+
+            <div class="hero-rating">
+              <img src="assets/app-icon.png" alt="" width="48" height="48" />
+              <div class="hero-rating__meta">
+                <div class="hero-rating__stars" aria-hidden="true">★★★★★</div>
+                <p data-i18n="hero_rating_line">4.9/5 rating · 50K+ users</p>
+              </div>
+            </div>
+          </div>
 
           <div class="hero-stats">
             <article>
@@ -79,141 +97,143 @@
         </div>
 
         <div class="hero-art reveal">
-          <img
-            src="assets/hero-phone.svg"
-            alt="CleanerOne app screen placeholder"
-            width="700"
-            height="860"
-          />
+          <div class="hero-stage">
+            <img
+              src="assets/hero-phone.svg"
+              alt="CleanerOne app screen placeholder"
+              width="700"
+              height="860"
+            />
+          </div>
+          <div class="hero-chip">
+            <span data-i18n="hero_chip_label">Space recovered</span>
+            <strong>12.4 GB</strong>
+          </div>
         </div>
       </section>
 
-      <section class="block section-head" id="features">
-        <p class="kicker" data-i18n="features_kicker">Features</p>
-        <h2 data-i18n="features_title">The important parts, without feature noise.</h2>
-      </section>
+      <section class="block overview-section" id="overview">
+        <div class="section-head">
+          <p class="kicker" data-i18n="overview_kicker">Features & Workflow</p>
+          <h2 data-i18n="overview_title">The cleanup toolkit, in one focused section.</h2>
+          <p data-i18n="overview_body">
+            CleanerOne combines smart detection, fast review, and private storage tools
+            into one deliberate cleanup workflow.
+          </p>
+        </div>
 
-      <section class="block feature-grid">
-        <article class="card reveal">
-          <p class="card-index">01</p>
-          <h3 data-i18n="feature_1_title">Smart duplicate detection</h3>
-          <p data-i18n="feature_1_body">
-            Spot similar photos and repeated screenshots quickly, then decide what stays.
-          </p>
-        </article>
-        <article class="card reveal">
-          <p class="card-index">02</p>
-          <h3 data-i18n="feature_2_title">Swipe-first cleanup flow</h3>
-          <p data-i18n="feature_2_body">
-            Keep, delete, or skip with minimal taps. Fast decisions, fewer mistakes.
-          </p>
-        </article>
-        <article class="card reveal">
-          <p class="card-index">03</p>
-          <h3 data-i18n="feature_3_title">Hidden Album mode</h3>
-          <p data-i18n="feature_3_body">
-            Keep private media behind a cleaner, deliberate vault entry.
-          </p>
-        </article>
-      </section>
-
-      <section class="block section-head" id="how">
-        <p class="kicker" data-i18n="how_kicker">How It Works</p>
-        <h2 data-i18n="how_title">Three steps. No unnecessary complexity.</h2>
-      </section>
-
-      <section class="block steps">
-        <article class="step-card reveal">
-          <span class="step-badge" data-i18n="step_1_badge">Step 1</span>
-          <h3 data-i18n="step_1_title">Scan</h3>
-          <p data-i18n="step_1_body">
-            Run a quick scan to group duplicates, screenshots, and large videos.
-          </p>
-        </article>
-        <article class="step-card reveal">
-          <span class="step-badge" data-i18n="step_2_badge">Step 2</span>
-          <h3 data-i18n="step_2_title">Review</h3>
-          <p data-i18n="step_2_body">
-            Check grouped items in a visual flow designed for fast decisions.
-          </p>
-        </article>
-        <article class="step-card reveal">
-          <span class="step-badge" data-i18n="step_3_badge">Step 3</span>
-          <h3 data-i18n="step_3_title">Clean</h3>
-          <p data-i18n="step_3_body">
-            Remove clutter and reclaim storage while keeping what matters.
-          </p>
-        </article>
-      </section>
-
-      <section class="block section-head" id="screens">
-        <p class="kicker" data-i18n="screens_kicker">Screenshots</p>
-        <h2 data-i18n="screens_title">A tighter screenshot layout, built for real phone shots.</h2>
-      </section>
-
-      <section class="block showcase-grid">
-        <article class="showcase-panel showcase-panel--main reveal">
-          <div class="showcase-copy">
-            <span class="showcase-tag" data-i18n="showcase_1_tag">Smart Scan</span>
-            <h3 data-i18n="showcase_1_title">See the whole cleanup picture first.</h3>
-            <p data-i18n="showcase_1_body">
-              Start with a scan summary that shows duplicates, screenshots, and large files
-              before the user dives into details.
-            </p>
-          </div>
-          <div class="showcase-visual showcase-visual--main">
-            <div class="showcase-device">
+        <div class="toolkit-grid">
+          <article class="toolkit-card toolkit-card--featured reveal">
+            <div class="toolkit-card__bg">
               <img
                 src="assets/shot-smart-scan.svg"
-                alt="Smart scan placeholder screenshot"
+                alt="Smart scan background preview"
                 width="560"
                 height="720"
               />
             </div>
-          </div>
-        </article>
+            <div class="toolkit-card__content">
+              <span class="toolkit-pill" data-i18n="toolkit_badge_1">Smart Engine</span>
+              <h3 data-i18n="feature_1_title">Smart duplicate detection</h3>
+              <p data-i18n="feature_1_body">
+                Spot similar photos and repeated screenshots quickly, then decide what stays.
+              </p>
+            </div>
+          </article>
 
-        <article class="showcase-panel reveal">
-          <div class="showcase-copy">
-            <span class="showcase-tag" data-i18n="showcase_2_tag">Swipe Mode</span>
-            <h3 data-i18n="showcase_2_title">Fast keep or delete decisions.</h3>
-            <p data-i18n="showcase_2_body">
-              Review suggestions in a quick visual flow instead of poking through the
-              Photos app like it owes you money.
-            </p>
-          </div>
-          <div class="showcase-visual">
-            <div class="showcase-device showcase-device--compact">
+          <article class="toolkit-card toolkit-card--compact reveal">
+            <div class="toolkit-icon toolkit-icon--cyan"></div>
+            <div>
+              <h3 data-i18n="feature_2_title">Swipe-first cleanup flow</h3>
+              <p data-i18n="feature_2_body">
+                Keep, delete, or skip with minimal taps. Fast decisions, fewer mistakes.
+              </p>
+            </div>
+          </article>
+
+          <article class="toolkit-card toolkit-card--inline reveal">
+            <div class="toolkit-inline-icon toolkit-inline-icon--lock"></div>
+            <div>
+              <h3 data-i18n="feature_3_title">Hidden Album mode</h3>
+              <p data-i18n="feature_3_body">
+                Keep private media behind a cleaner, deliberate vault entry.
+              </p>
+            </div>
+          </article>
+
+          <article class="toolkit-card toolkit-card--wide reveal">
+            <div class="toolkit-card__content">
+              <h3 data-i18n="feature_4_title">Clear review stages</h3>
+              <p data-i18n="feature_4_body">
+                Scan, review, and finish without losing track of what was kept or removed.
+              </p>
+              <div class="toolkit-tags">
+                <span data-i18n="toolkit_tag_1">Duplicates</span>
+                <span data-i18n="toolkit_tag_2">Videos</span>
+                <span data-i18n="toolkit_tag_3">Screenshots</span>
+              </div>
+            </div>
+            <div class="toolkit-data-orb" aria-hidden="true"></div>
+          </article>
+        </div>
+      </section>
+
+      <section class="block screenshots-section" id="screens">
+        <div class="section-head section-head--centered">
+          <p class="kicker" data-i18n="screens_kicker">Screenshots</p>
+          <h2 data-i18n="screens_title">Three focused screens, not a visual traffic jam.</h2>
+          <p data-i18n="screens_body">
+            Keep the screenshot section clean. Three strong app views are enough to explain
+            the flow without making the page feel crowded.
+          </p>
+        </div>
+
+        <div class="screens-row">
+          <figure class="screen-card screen-card--left reveal">
+            <div class="screen-card__frame">
+              <img
+                src="assets/shot-smart-scan.svg"
+                alt="Smart scan preview"
+                width="560"
+                height="720"
+              />
+            </div>
+            <figcaption>
+              <strong data-i18n="screen_1_title">Smart Scan</strong>
+              <span data-i18n="screen_1_body">Start with a clear overview of duplicate and clutter groups.</span>
+            </figcaption>
+          </figure>
+
+          <figure class="screen-card screen-card--center reveal">
+            <div class="screen-card__frame">
               <img
                 src="assets/shot-swipe-mode.svg"
-                alt="Swipe mode placeholder screenshot"
+                alt="Swipe mode preview"
                 width="560"
                 height="720"
               />
             </div>
-          </div>
-        </article>
+            <figcaption>
+              <strong data-i18n="screen_2_title">Swipe Review</strong>
+              <span data-i18n="screen_2_body">Move through cleanup decisions fast without losing context.</span>
+            </figcaption>
+          </figure>
 
-        <article class="showcase-panel reveal">
-          <div class="showcase-copy">
-            <span class="showcase-tag" data-i18n="showcase_3_tag">Hidden Album</span>
-            <h3 data-i18n="showcase_3_title">Private media in a cleaner vault.</h3>
-            <p data-i18n="showcase_3_body">
-              Sensitive content stays behind a more intentional private area instead of a
-              forgettable default folder.
-            </p>
-          </div>
-          <div class="showcase-visual">
-            <div class="showcase-device showcase-device--compact">
+          <figure class="screen-card screen-card--right reveal">
+            <div class="screen-card__frame">
               <img
                 src="assets/shot-hidden-vault.svg"
-                alt="Hidden album placeholder screenshot"
+                alt="Hidden album preview"
                 width="560"
                 height="720"
               />
             </div>
-          </div>
-        </article>
+            <figcaption>
+              <strong data-i18n="screen_3_title">Hidden Album</strong>
+              <span data-i18n="screen_3_body">Keep private media in a separate, more intentional space.</span>
+            </figcaption>
+          </figure>
+        </div>
       </section>
 
       <section class="block section-head" id="reviews">
@@ -310,7 +330,6 @@
       <div class="footer-links">
         <a href="privacy/" data-i18n="privacy_link">Privacy Policy</a>
         <a href="terms/" data-i18n="terms_link">User Agreement</a>
-        <a href="mailto:hello@cleanerone.pro">hello@cleanerone.pro</a>
       </div>
       <p class="footer-note">
         <span id="current-year"></span> CleanerOne.
