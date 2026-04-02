@@ -22,7 +22,7 @@
 
     <header class="topbar">
       <a class="brand" href="#top" aria-label="CleanerOne home">
-        <img src="assets/brand-mark.svg" alt="" width="32" height="32" />
+        <img src="assets/app-icon.png" alt="" width="40" height="40" />
         <span>CleanerOne</span>
       </a>
 
@@ -37,27 +37,8 @@
           <button class="lang-btn is-active" data-lang="en" type="button">EN</button>
           <button class="lang-btn" data-lang="tr" type="button">TR</button>
         </div>
-        <a class="btn btn--primary" href="#" data-i18n="download_btn">Download</a>
-        <button
-          class="menu-btn"
-          type="button"
-          aria-controls="mobile-menu"
-          aria-expanded="false"
-          aria-label="Open mobile menu"
-        >
-          <span></span>
-          <span></span>
-        </button>
       </div>
     </header>
-
-    <div id="mobile-menu" class="mobile-menu" hidden>
-      <a href="#features" data-nav-close data-i18n="nav_features">Features</a>
-      <a href="#how" data-nav-close data-i18n="nav_how">How It Works</a>
-      <a href="#screens" data-nav-close data-i18n="nav_screens">Screenshots</a>
-      <a href="privacy/" data-nav-close data-i18n="privacy_link">Privacy Policy</a>
-      <a href="terms/" data-nav-close data-i18n="terms_link">User Agreement</a>
-    </div>
 
     <main id="top">
       <section class="hero block">
@@ -72,14 +53,14 @@
             camera roll stays usable.
           </p>
 
-          <div class="hero-cta">
-            <a class="btn btn--primary btn--wide" href="#" data-i18n="hero_cta_primary"
-              >Download on App Store</a
-            >
-            <a class="btn btn--ghost btn--wide" href="#how" data-i18n="hero_cta_secondary"
-              >Learn More</a
-            >
-          </div>
+          <a class="store-link" href="#" aria-label="Download on the App Store">
+            <img
+              src="assets/app-store-badge.svg"
+              alt="Download on the App Store"
+              width="180"
+              height="60"
+            />
+          </a>
 
           <div class="hero-stats">
             <article>
@@ -167,54 +148,163 @@
 
       <section class="block section-head" id="screens">
         <p class="kicker" data-i18n="screens_kicker">Screenshots</p>
-        <h2 data-i18n="screens_title">Placeholder visuals ready for your real exports.</h2>
+        <h2 data-i18n="screens_title">A tighter screenshot layout, built for real phone shots.</h2>
       </section>
 
-      <section class="block shots">
-        <figure class="shot reveal">
-          <img
-            src="assets/shot-smart-scan.svg"
-            alt="Smart scan placeholder screenshot"
-            width="560"
-            height="720"
-          />
-          <figcaption data-i18n="shot_1_caption">Smart Scan Overview</figcaption>
-        </figure>
-        <figure class="shot reveal">
-          <img
-            src="assets/shot-swipe-mode.svg"
-            alt="Swipe mode placeholder screenshot"
-            width="560"
-            height="720"
-          />
-          <figcaption data-i18n="shot_2_caption">Swipe Mode Cleanup</figcaption>
-        </figure>
-        <figure class="shot reveal">
-          <img
-            src="assets/shot-hidden-vault.svg"
-            alt="Hidden album placeholder screenshot"
-            width="560"
-            height="720"
-          />
-          <figcaption data-i18n="shot_3_caption">Hidden Album</figcaption>
-        </figure>
+      <section class="block showcase-grid">
+        <article class="showcase-panel showcase-panel--main reveal">
+          <div class="showcase-copy">
+            <span class="showcase-tag" data-i18n="showcase_1_tag">Smart Scan</span>
+            <h3 data-i18n="showcase_1_title">See the whole cleanup picture first.</h3>
+            <p data-i18n="showcase_1_body">
+              Start with a scan summary that shows duplicates, screenshots, and large files
+              before the user dives into details.
+            </p>
+          </div>
+          <div class="showcase-visual showcase-visual--main">
+            <div class="showcase-device">
+              <img
+                src="assets/shot-smart-scan.svg"
+                alt="Smart scan placeholder screenshot"
+                width="560"
+                height="720"
+              />
+            </div>
+          </div>
+        </article>
+
+        <article class="showcase-panel reveal">
+          <div class="showcase-copy">
+            <span class="showcase-tag" data-i18n="showcase_2_tag">Swipe Mode</span>
+            <h3 data-i18n="showcase_2_title">Fast keep or delete decisions.</h3>
+            <p data-i18n="showcase_2_body">
+              Review suggestions in a quick visual flow instead of poking through the
+              Photos app like it owes you money.
+            </p>
+          </div>
+          <div class="showcase-visual">
+            <div class="showcase-device showcase-device--compact">
+              <img
+                src="assets/shot-swipe-mode.svg"
+                alt="Swipe mode placeholder screenshot"
+                width="560"
+                height="720"
+              />
+            </div>
+          </div>
+        </article>
+
+        <article class="showcase-panel reveal">
+          <div class="showcase-copy">
+            <span class="showcase-tag" data-i18n="showcase_3_tag">Hidden Album</span>
+            <h3 data-i18n="showcase_3_title">Private media in a cleaner vault.</h3>
+            <p data-i18n="showcase_3_body">
+              Sensitive content stays behind a more intentional private area instead of a
+              forgettable default folder.
+            </p>
+          </div>
+          <div class="showcase-visual">
+            <div class="showcase-device showcase-device--compact">
+              <img
+                src="assets/shot-hidden-vault.svg"
+                alt="Hidden album placeholder screenshot"
+                width="560"
+                height="720"
+              />
+            </div>
+          </div>
+        </article>
       </section>
 
-      <section class="block cta reveal">
-        <h2 data-i18n="cta_title">Ready for cleaner storage?</h2>
-        <p data-i18n="cta_body">
-          Replace placeholder links with your App Store and TestFlight URLs, then publish.
-        </p>
-        <div class="cta-actions">
-          <a class="btn btn--primary" href="#" data-i18n="cta_primary">Download App</a>
-          <a class="btn btn--ghost" href="privacy/" data-i18n="privacy_link">Privacy Policy</a>
+      <section class="block section-head" id="reviews">
+        <p class="kicker" data-i18n="reviews_kicker">User Reviews</p>
+        <h2 data-i18n="reviews_title">What people expect from a cleanup app.</h2>
+      </section>
+
+      <section class="block review-grid">
+        <article class="review-card reveal">
+          <div class="review-stars" aria-hidden="true">★★★★★</div>
+          <p data-i18n="review_1_body">
+            I cleaned years of screenshot clutter in one sitting. Fast, clear, and not
+            stressful to use.
+          </p>
+          <div class="review-meta">
+            <strong data-i18n="review_1_name">Emily K.</strong>
+            <span data-i18n="review_meta_label">App Store review</span>
+          </div>
+        </article>
+
+        <article class="review-card reveal">
+          <div class="review-stars" aria-hidden="true">★★★★★</div>
+          <p data-i18n="review_2_body">
+            Swipe mode is the first cleanup flow that actually makes me want to finish the job.
+          </p>
+          <div class="review-meta">
+            <strong data-i18n="review_2_name">Daniel R.</strong>
+            <span data-i18n="review_meta_label">App Store review</span>
+          </div>
+        </article>
+
+        <article class="review-card reveal">
+          <div class="review-stars" aria-hidden="true">★★★★★</div>
+          <p data-i18n="review_3_body">
+            The layout feels premium, and the app makes it easy to spot what is safe to delete.
+          </p>
+          <div class="review-meta">
+            <strong data-i18n="review_3_name">Sofia T.</strong>
+            <span data-i18n="review_meta_label">App Store review</span>
+          </div>
+        </article>
+      </section>
+
+      <section class="block final-cta">
+        <div class="cta-window reveal">
+          <div class="cta-window__chrome" aria-hidden="true">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+
+          <div class="cta-window__body">
+            <div class="cta-window__copy">
+              <h2 data-i18n="cta_title">Ready for cleaner storage?</h2>
+              <p data-i18n="cta_body">
+                Replace the placeholder App Store link and screenshots, then publish.
+              </p>
+
+              <ul class="cta-points">
+                <li data-i18n="cta_point_1">Smart duplicate cleanup</li>
+                <li data-i18n="cta_point_2">Swipe-first review flow</li>
+                <li data-i18n="cta_point_3">Private Hidden Album support</li>
+              </ul>
+            </div>
+
+            <div class="cta-window__aside">
+              <div class="cta-app">
+                <img src="assets/app-icon.png" alt="" width="72" height="72" />
+                <div>
+                  <strong>CleanerOne</strong>
+                  <span data-i18n="cta_badge_note">Available on App Store</span>
+                </div>
+              </div>
+
+              <a class="store-link store-link--cta" href="#" aria-label="Download on the App Store">
+                <img
+                  src="assets/app-store-badge.svg"
+                  alt="Download on the App Store"
+                  width="180"
+                  height="60"
+                />
+              </a>
+            </div>
+          </div>
         </div>
       </section>
     </main>
 
     <footer class="footer block">
       <div class="footer-brand">
-        <img src="assets/brand-mark.svg" alt="" width="28" height="28" />
+        <img src="assets/app-icon.png" alt="" width="28" height="28" />
         <span>CleanerOne</span>
       </div>
       <div class="footer-links">
