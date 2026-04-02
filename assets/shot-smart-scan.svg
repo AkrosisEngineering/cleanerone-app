@@ -1,0 +1,19 @@
+<svg width="700" height="880" viewBox="0 0 700 880" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="880" rx="42" fill="#FFF8EE"/>
+  <rect x="36" y="36" width="628" height="808" rx="34" fill="#162039"/>
+  <rect x="78" y="84" width="156" height="22" rx="11" fill="#3F4B6B"/>
+  <rect x="78" y="126" width="308" height="68" rx="24" fill="#FFF8EE"/>
+  <rect x="414" y="126" width="208" height="68" rx="24" fill="#16B097"/>
+  <rect x="78" y="236" width="544" height="228" rx="30" fill="#24385F"/>
+  <rect x="106" y="270" width="92" height="16" rx="8" fill="#7E89A6"/>
+  <rect x="106" y="308" width="174" height="66" rx="20" fill="#FFF8EE"/>
+  <rect x="78" y="500" width="260" height="130" rx="28" fill="#EA6A3A"/>
+  <rect x="362" y="500" width="260" height="130" rx="28" fill="#E3F6F1"/>
+  <rect x="78" y="658" width="544" height="132" rx="28" fill="#F0F4FB"/>
+  <text x="106" y="171" fill="#162039" font-family="Arial, sans-serif" font-size="28" font-weight="700">Smart Scan</text>
+  <text x="438" y="169" fill="#0D1A30" font-family="Arial, sans-serif" font-size="24" font-weight="700">Start</text>
+  <text x="106" y="353" fill="#162039" font-family="Arial, sans-serif" font-size="46" font-weight="700">4.8 GB</text>
+  <text x="106" y="560" fill="#FFF8EE" font-family="Arial, sans-serif" font-size="24" font-weight="700">Duplicates</text>
+  <text x="392" y="560" fill="#162039" font-family="Arial, sans-serif" font-size="24" font-weight="700">Screenshots</text>
+  <text x="106" y="718" fill="#162039" font-family="Arial, sans-serif" font-size="30" font-weight="700">Review suggestions</text>
+</svg>

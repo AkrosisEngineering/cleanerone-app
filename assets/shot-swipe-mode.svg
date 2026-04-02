@@ -1,0 +1,20 @@
+<svg width="700" height="880" viewBox="0 0 700 880" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="880" rx="42" fill="#FFF8EE"/>
+  <rect x="36" y="36" width="628" height="808" rx="34" fill="#162039"/>
+  <rect x="78" y="84" width="164" height="22" rx="11" fill="#56627D"/>
+  <rect x="78" y="126" width="544" height="620" rx="34" fill="#F4EDE4"/>
+  <rect x="112" y="160" width="476" height="470" rx="28" fill="#EADCC7"/>
+  <path d="M156 552C227 476 307 536 381 452C442 384 509 390 544 428V600H156V552Z" fill="#DAB58E"/>
+  <circle cx="248" cy="292" r="44" fill="#16B097"/>
+  <circle cx="458" cy="232" r="28" fill="#EA6A3A"/>
+  <rect x="124" y="664" width="116" height="94" rx="28" fill="#EA6A3A"/>
+  <rect x="292" y="664" width="116" height="94" rx="28" fill="#162039"/>
+  <rect x="460" y="664" width="116" height="94" rx="28" fill="#16B097"/>
+  <path d="M176 714L200 738L248 690" stroke="#FFF8EE" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M332 690L368 726M368 690L332 726" stroke="#FFF8EE" stroke-width="10" stroke-linecap="round"/>
+  <path d="M488 712H548" stroke="#162039" stroke-width="10" stroke-linecap="round"/>
+  <text x="112" y="114" fill="#FFF8EE" font-family="Arial, sans-serif" font-size="18" font-weight="700">Swipe Mode</text>
+  <text x="124" y="706" fill="#FFF8EE" font-family="Arial, sans-serif" font-size="24" font-weight="700">Keep</text>
+  <text x="307" y="706" fill="#FFF8EE" font-family="Arial, sans-serif" font-size="24" font-weight="700">Delete</text>
+  <text x="485" y="706" fill="#162039" font-family="Arial, sans-serif" font-size="24" font-weight="700">Later</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="700" height="880" viewBox="0 0 700 880" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="880" rx="42" fill="#FFF8EE"/>
+  <rect x="36" y="36" width="628" height="808" rx="34" fill="#162039"/>
+  <rect x="78" y="84" width="196" height="22" rx="11" fill="#56627D"/>
+  <rect x="78" y="126" width="544" height="640" rx="34" fill="#1D2D4E"/>
+  <rect x="122" y="176" width="456" height="164" rx="28" fill="#FFF8EE"/>
+  <rect x="122" y="372" width="218" height="218" rx="28" fill="#F2E8DB"/>
+  <rect x="360" y="372" width="218" height="218" rx="28" fill="#E7F7F2"/>
+  <rect x="122" y="614" width="456" height="108" rx="28" fill="#FFF8EE"/>
+  <circle cx="350" cy="254" r="54" fill="#16B097"/>
+  <path d="M350 220C330 220 314 236 314 256V282H386V256C386 236 370 220 350 220Z" fill="#162039"/>
+  <rect x="324" y="282" width="52" height="54" rx="16" fill="#162039"/>
+  <circle cx="350" cy="305" r="8" fill="#FFF8EE"/>
+  <rect x="150" y="642" width="94" height="14" rx="7" fill="#EA6A3A"/>
+  <rect x="150" y="670" width="186" height="14" rx="7" fill="#C3C9D9"/>
+  <text x="112" y="114" fill="#FFF8EE" font-family="Arial, sans-serif" font-size="18" font-weight="700">Hidden Album</text>
+  <text x="154" y="232" fill="#162039" font-family="Arial, sans-serif" font-size="26" font-weight="700">Protected access</text>
+  <text x="154" y="274" fill="#5D6883" font-family="Arial, sans-serif" font-size="20" font-weight="700">Private media section</text>
+</svg>
