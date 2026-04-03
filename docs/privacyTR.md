@@ -1,67 +1,102 @@
 **Gizlilik Politikası**
 
-Bu gizlilik politikası, Akrosis Mühendislik San. ve Tic. LTD. ŞTİ. (bundan sonra "Hizmet Sağlayıcı" olarak anılacaktır) tarafından ticari bir hizmet olarak oluşturulan mobil cihazlar için CleanerOne uygulaması (bundan sonra "Uygulama" olarak anılacaktır) için geçerlidir. Bu hizmet "OLDUĞU GİBİ" sunulmaktadır.
+Bu Gizlilik Politikası, Akrosis Mühendislik San. ve Tic. LTD. ŞTİ. (bundan sonra "Hizmet Sağlayıcı" olarak anılacaktır) tarafından ticari bir hizmet olarak sunulan CleanerOne mobil uygulaması (bundan sonra "Uygulama" olarak anılacaktır) için geçerlidir. Uygulama "OLDUĞU GİBİ" sunulmaktadır.
 
-**Bilgi Toplama ve Kullanım**
+**Topladığımız Bilgiler**
 
-Uygulama, siz indirip kullandığınızda bilgi toplar. Bu bilgiler şunları içerebilir:
+Uygulama, siz yüklediğinizde veya kullandığınızda bazı bilgileri otomatik olarak toplayabilir. Bu bilgiler şunları içerebilir:
 
-*   Cihazınızın Internet Protocol adresi (örneğin IP adresi)
-*   Uygulama içinde ziyaret ettiğiniz sayfalar, ziyaret tarihiniz ve saatiniz, bu sayfalarda geçirdiğiniz süre
-*   Uygulamada geçirdiğiniz toplam süre
-*   Mobil cihazınızda kullandığınız işletim sistemi
+*   cihazınızın Internet Protocol adresi (örneğin IP adresiniz)
+*   uygulama kullanım bilgileri; etkileşim kurduğunuz ekranlar veya özellikler, kullanım zamanı ve tarihi ile Uygulamada geçirilen süre
+*   işletim sistemi sürümü, uygulama sürümü, build numarası, cihaz modeli, dil ve benzeri tanılama bağlamı gibi teknik cihaz ve uygulama bilgileri
+*   uygulama performansını izlemek, sorunları incelemek ve kararlılığı iyileştirmek için kullanılan çökme raporları, kritik olmayan hata raporları ve ilgili tanılama verileri
 
-Uygulama, mobil cihazınızın tam konum bilgilerini toplamaz.
+Uygulama, cihazınızdan hassas konum bilgisi toplamaz.
 
-Uygulama, verilerinizi işlemek veya özellik sunmak için Yapay Zeka (AI) teknolojileri kullanmaz.
+Uygulama, kişisel verilerinizi işlemek veya temel özellikler sunmak için Yapay Zeka (AI) teknolojileri kullanmaz.
 
-Hizmet Sağlayıcı, size önemli bilgiler, zorunlu bildirimler ve pazarlama tanıtımları sunmak için sağladığınız bilgileri zaman zaman kullanabilir.
+**Sağlayabileceğiniz Bilgiler**
 
-Daha iyi bir deneyim için, Uygulamayı kullanırken Hizmet Sağlayıcı sizden e-posta ve cihaz adı dahil ancak bunlarla sınırlı olmamak üzere belirli kişisel olarak tanımlanabilir bilgiler isteyebilir. Hizmet Sağlayıcı tarafından talep edilen bilgiler saklanacak ve bu gizlilik politikasında açıklandığı şekilde kullanılacaktır.
+Bazı özellikler, bilgileri doğrudan Hizmet Sağlayıcı ile paylaşmanıza olanak tanıyabilir. Örneğin, Uygulama içinden destek talebi gönderirseniz şu bilgileri sağlayabilirsiniz:
 
-**Üçüncü Taraf Erişimi**
+*   mesajınız veya destek talebinizin içeriği
+*   geri dönüş yapılmasını isterseniz e-posta adresiniz
+*   talebe eklenen teknik bağlam; uygulama sürümü, build numarası, iOS sürümü, cihaz modeli ve bundle identifier gibi bilgiler
 
-Yalnızca toplu ve anonimleştirilmiş veriler, Hizmet Sağlayıcı'nın Uygulamayı ve hizmetini iyileştirmesine yardımcı olmak amacıyla belirli aralıklarla harici servislere aktarılır. Hizmet Sağlayıcı, bilgilerinizi bu gizlilik bildiriminde açıklanan şekillerde üçüncü taraflarla paylaşabilir.
+Bu bilgiler, destek taleplerini yanıtlamak, sorunları incelemek ve Uygulamayı iyileştirmek için kullanılır.
 
-Lütfen Uygulamanın, veri işleme konusunda kendi Gizlilik Politikalarına sahip üçüncü taraf hizmetleri kullandığını unutmayın. Uygulama tarafından kullanılan üçüncü taraf hizmet sağlayıcılarının Gizlilik Politikası bağlantıları aşağıdadır:
+**Satın Alımlar ve Abonelikler**
+
+Uygulama, premium özellikleri Apple'ın uygulama içi satın alma sistemi üzerinden sunar. Bir abonelik işlemini başlattığınızda, tamamladığınızda, başarısız olduğunda veya geri yüklediğinizde, Uygulama sınırlı satın alma olayı verilerini aşağıdaki amaçlarla işleyebilir:
+
+*   premium işlevleri etkinleştirmek
+*   abonelik ve geri yükleme akışlarını doğrulamak
+*   abonelik dönüşümünü ve ürün performansını anlamak
+*   başarısız satın alma veya geri yükleme girişimlerini incelemek
+
+Hizmet Sağlayıcı, tam ödeme kartı bilgilerinizi almaz veya saklamaz. Ödemeler, Apple'ın kendi şartları ve gizlilik uygulamaları kapsamında Apple tarafından işlenir.
+
+**Bilgileri Nasıl Kullanıyoruz**
+
+Hizmet Sağlayıcı, toplanan bilgileri şu amaçlarla kullanabilir:
+
+*   Uygulamayı sunmak ve sürdürmek
+*   uygulama özelliklerini ve premium işlevleri etkinleştirmek
+*   ürün kullanımını analiz etmek ve özellikleri, performansı ve güvenilirliği iyileştirmek
+*   çökmeleri, hataları ve teknik sorunları teşhis etmek
+*   destek taleplerini yanıtlamak ve gönderdiğiniz başvurularla ilgili geri dönüş yapmak
+*   yasal yükümlülüklere uymak ve Uygulamanın güvenliğini ve bütünlüğünü korumak
+
+**Fotoğraflar ve Videolar**
+
+Uygulama, kullanıcıların cihazlarındaki fotoğraf arşivini gözden geçirmelerine ve yönetmelerine yardımcı olmak için tasarlanmıştır. Fotoğraf ve video analizi cihaz üzerinde yapılır. Hizmet Sağlayıcı, temel temizleme özelliklerinin bir parçası olarak kişisel fotoğraf veya videolarınızı uzaktan işlemek için kendi sunucularına yüklemez.
+
+**Üçüncü Taraf Hizmetleri**
+
+Uygulama, Hizmet Sağlayıcı adına belirli verileri işleyebilen üçüncü taraf hizmetleri kullanır. Bunlar şunları içerebilir:
 
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [Firebase Cloud Firestore](https://firebase.google.com/support/privacy)
 
-Hizmet Sağlayıcı, Kullanıcı Tarafından Sağlanan ve Otomatik Olarak Toplanan Bilgileri şu durumlarda açıklayabilir:
+Bu üçüncü taraf sağlayıcıların kendi gizlilik politikaları vardır ve bilgileri kendi şartları kapsamında işleyebilirler.
 
-*   mahkeme celbi veya benzeri yasal süreçler gibi hukuken gerekli olduğunda;
-*   haklarını korumak, sizin veya başkalarının güvenliğini korumak, dolandırıcılığı araştırmak veya resmi bir talebe yanıt vermek için açıklamanın gerekli olduğuna iyi niyetle inandığında;
-*   kendileri adına çalışan, açıklanan bilgileri bağımsız olarak kullanmayan ve bu gizlilik bildirimindeki kurallara uymayı kabul eden güvenilir hizmet sağlayıcılarıyla.
+**Bilgiler Ne Zaman Paylaşılabilir**
 
-**Çıkma Hakkı**
+Hizmet Sağlayıcı bilgileri şu durumlarda açıklayabilir:
 
-Uygulamanın bilgi toplamasını, uygulamayı kaldırarak kolayca durdurabilirsiniz. Mobil cihazınızın veya uygulama mağazası/ağ altyapısının sunduğu standart kaldırma süreçlerini kullanabilirsiniz.
+*   yasal gereklilik veya hukuki süreç kapsamında gerektiğinde
+*   hakları, güvenliği veya emniyeti korumak, dolandırıcılığı araştırmak veya hukuka uygun resmi taleplere yanıt vermek için gerekli olduğunda
+*   yalnızca kendi hizmetlerini sağlamak için ihtiyaç duydukları ölçüde işleyen güvenilir hizmet sağlayıcılarla
 
-**Veri Saklama Politikası**
+**Vazgeçme Hakkı**
 
-Hizmet Sağlayıcı, Kullanıcı Tarafından Sağlanan verileri Uygulamayı kullandığınız süre boyunca ve sonrasında makul bir süre daha saklayacaktır. Uygulama aracılığıyla sağladığınız Kullanıcı Tarafından Sağlanan Verilerin silinmesini isterseniz, support.cleanerone@akrosis.com adresinden iletişime geçebilirsiniz; makul bir süre içinde yanıt verilecektir.
+Uygulamayı kaldırarak bilgi toplanmasını durdurabilirsiniz. Mobil cihazınızda veya uygulama mağazasında sunulan standart kaldırma yöntemlerini kullanabilirsiniz.
 
-**Çocuklar**
+**Veri Saklama**
 
-Hizmet Sağlayıcı, Uygulamayı 13 yaşının altındaki çocuklardan bilerek veri toplamak veya onlara pazarlama yapmak için kullanmaz.
+Hizmet Sağlayıcı, bilgileri Uygulamayı sunmak, destek süreçlerini yürütmek, yasal yükümlülüklere uymak, uyuşmazlıkları çözmek ve sözleşmeleri uygulamak için makul ölçüde gerekli olduğu sürece saklayabilir.
 
-Uygulama, 13 yaşının altındaki kişilere yönelik değildir. Hizmet Sağlayıcı, 13 yaş altındaki çocuklardan bilerek kişisel olarak tanımlanabilir bilgi toplamaz. Hizmet Sağlayıcı, 13 yaşından küçük bir çocuğun kişisel bilgi sağladığını fark ederse bu bilgileri derhal sunucularından siler. Eğer bir ebeveyn veya vasiseniz ve çocuğunuzun bize kişisel bilgi sağladığını biliyorsanız, gerekli işlemleri yapabilmeleri için Hizmet Sağlayıcı ile (support.cleanerone@akrosis.com) iletişime geçin.
+Uygulama üzerinden gönderdiğiniz destek verilerinin veya diğer bilgilerin silinmesini talep etmek isterseniz support.cleanerone@akrosis.com adresiyle iletişime geçebilirsiniz. Talepler, yasal ve operasyonel gereklilikler çerçevesinde makul süre içinde değerlendirilir ve işleme alınır.
+
+**Çocukların Gizliliği**
+
+Uygulama 13 yaşın altındaki çocuklara yönelik değildir ve Hizmet Sağlayıcı 13 yaşın altındaki çocuklardan bilerek kişisel bilgi toplamaz. Böyle bir bilginin sağlandığı fark edilirse makul süre içinde silinir. Bir çocuğun kişisel bilgi sağlamış olabileceğini düşünüyorsanız support.cleanerone@akrosis.com adresi üzerinden iletişime geçebilirsiniz.
 
 **Güvenlik**
 
-Hizmet Sağlayıcı, bilgilerinizin gizliliğini korumaya önem verir. Hizmet Sağlayıcı, işlediği ve sakladığı bilgileri korumak için fiziksel, elektronik ve usule ilişkin güvenlik önlemleri sağlar.
+Hizmet Sağlayıcı, Uygulama kapsamında işlenen ve saklanan bilgileri korumak için makul fiziksel, elektronik ve usuli güvenlik önlemleri uygular.
 
-**Değişiklikler**
+**Bu Gizlilik Politikasındaki Değişiklikler**
 
-Bu Gizlilik Politikası herhangi bir nedenle zaman zaman güncellenebilir. Hizmet Sağlayıcı, yeni Gizlilik Politikasını bu sayfada yayımlayarak sizi değişikliklerden haberdar edecektir. Tüm değişiklikler, uygulamayı kullanmaya devam etmeniz halinde kabul edilmiş sayılır. Bu nedenle bu Gizlilik Politikasını düzenli olarak incelemeniz tavsiye edilir.
+Bu Gizlilik Politikası zaman zaman güncellenebilir. Hizmet Sağlayıcı, önemli değişiklikleri bu sayfayı güncelleyerek ve aşağıdaki yürürlük tarihini revize ederek kullanıcılara duyuracaktır. Değişikliklerin yürürlüğe girmesinden sonra Uygulamayı kullanmaya devam etmeniz, güncellenmiş politikayı kabul ettiğiniz anlamına gelir.
 
-Bu gizlilik politikası 2026-04-01 tarihinden itibaren geçerlidir.
+Yürürlük tarihi: 2026-04-03
 
 **Onayınız**
 
-Uygulamayı kullanarak, bilgilerinizin bu Gizlilik Politikasında belirtildiği şekilde şimdi ve tarafımızca değiştirildiği haliyle işlenmesine onay vermiş olursunuz.
+Uygulamayı kullanarak, bilgilerin bu Gizlilik Politikasında açıklandığı şekilde toplanmasını ve kullanılmasını kabul etmiş olursunuz.
 
 **Bize Ulaşın**
 
-Uygulamayı kullanırken gizlilikle ilgili sorularınız varsa veya uygulamadaki uygulamalar hakkında sorularınız bulunuyorsa, support.cleanerone@akrosis.com adresi üzerinden Hizmet Sağlayıcı ile iletişime geçebilirsiniz.
+Bu Gizlilik Politikası veya Hizmet Sağlayıcının gizlilik uygulamaları hakkında sorularınız varsa support.cleanerone@akrosis.com adresi üzerinden iletişime geçebilirsiniz.

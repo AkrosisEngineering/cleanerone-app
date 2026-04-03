@@ -1,67 +1,102 @@
 **Privacy Policy**
 
-This privacy policy applies to the CleanerOne app (hereby referred to as "Application") for mobile devices that was created by Akrosis Mühendislik San. ve Tic. LTD. ŞTİ. (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
+This Privacy Policy applies to the CleanerOne mobile application (the "Application"), provided by Akrosis Mühendislik San. ve Tic. LTD. ŞTİ. (the "Service Provider") as a commercial service. The Application is provided on an "AS IS" basis.
 
-**Information Collection and Use**
+**Information We Collect**
 
-The Application collects information when you download and use it. This information may include information such as
+The Application may collect certain information automatically when you install or use it. This information may include:
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+*   your device's Internet Protocol address (such as your IP address)
+*   app usage information, including the screens or features you interact with, the time and date of use, and the time spent in the Application
+*   technical device and app information, such as operating system version, app version, build number, device model, language, and similar diagnostic context
+*   crash reports, non-fatal error reports, and related diagnostic data used to monitor app performance, investigate issues, and improve stability
 
-The Application does not gather precise information about the location of your mobile device.
+The Application does not collect precise location information from your device.
 
-The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
+The Application does not use Artificial Intelligence (AI) technologies to process your personal data or provide core features.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+**Information You May Provide**
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Email,Device Name. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+Some features may allow you to provide information directly to the Service Provider. For example, if you contact support through the Application, you may provide:
 
-**Third Party Access**
+*   your message or support request content
+*   your email address, if you choose to provide one for follow-up
+*   technical context attached to the request, such as app version, build number, iOS version, device model, and bundle identifier
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+This information is used to respond to support requests, investigate problems, and improve the Application.
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+**Purchases and Subscriptions**
+
+The Application offers premium features through Apple's in-app purchase system. When you initiate, complete, fail, or restore a subscription transaction, the Application may process limited purchase-related event data for purposes such as:
+
+*   enabling premium functionality
+*   verifying subscription and restore flows
+*   understanding subscription conversion and product performance
+*   investigating failed purchase or restore attempts
+
+The Service Provider does not receive or store your full payment card information. Payments are processed by Apple according to Apple's own terms and privacy practices.
+
+**How We Use Information**
+
+The Service Provider may use collected information to:
+
+*   provide and maintain the Application
+*   enable app features and premium functionality
+*   analyze product usage and improve features, performance, and reliability
+*   diagnose crashes, errors, and technical issues
+*   respond to support inquiries and follow up on requests you submit
+*   comply with legal obligations and protect the security and integrity of the Application
+
+**Photos and Videos**
+
+The Application is designed to help users review and manage media stored in their device photo library. Photo and video analysis is performed on-device. The Service Provider does not upload your personal photos or videos to its servers for remote processing as part of the core cleaning features.
+
+**Third-Party Services**
+
+The Application uses third-party services that may process certain data on behalf of the Service Provider. These may include:
 
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [Cloud Firestore for Firebase](https://firebase.google.com/support/privacy)
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+These third-party providers have their own privacy policies and may process information in accordance with their own terms.
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+**When Information May Be Shared**
+
+The Service Provider may disclose information:
+
+*   when required by law or legal process
+*   when disclosure is necessary to protect rights, safety, security, investigate fraud, or respond to lawful government requests
+*   to trusted service providers acting on the Service Provider's behalf, provided they process the information only as needed to provide their services
 
 **Opt-Out Rights**
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+You can stop all collection of information by the Application by uninstalling it. You may use the standard uninstall processes available through your mobile device or app marketplace.
 
-**Data Retention Policy**
+**Data Retention**
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at support.cleanerone@akrosis.com and they will respond in a reasonable time.
+The Service Provider may retain information for as long as reasonably necessary to provide the Application, operate support workflows, comply with legal obligations, resolve disputes, and enforce agreements.
 
-**Children**
+If you would like the Service Provider to delete support data or other information you submitted through the Application, you may contact support.cleanerone@akrosis.com. Requests will be reviewed and handled within a reasonable timeframe, subject to legal and operational requirements.
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+**Children's Privacy**
 
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (support.cleanerone@akrosis.com) so that they will be able to take the necessary actions.
+The Application is not directed to children under the age of 13, and the Service Provider does not knowingly collect personal information from children under 13. If the Service Provider becomes aware that such information has been provided, it will be deleted within a reasonable time. Parents or guardians who believe a child has provided personal information may contact support.cleanerone@akrosis.com.
 
 **Security**
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+The Service Provider uses reasonable physical, electronic, and procedural safeguards designed to protect information processed and maintained in connection with the Application.
 
-**Changes**
+**Changes to This Privacy Policy**
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+This Privacy Policy may be updated from time to time. The Service Provider will notify users of material changes by updating this page and revising the effective date below. Continued use of the Application after changes become effective constitutes acceptance of the updated policy.
 
-This privacy policy is effective as of 2026-04-01
+Effective date: 2026-04-03
 
 **Your Consent**
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+By using the Application, you consent to the collection and use of information as described in this Privacy Policy.
 
 **Contact Us**
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at support.cleanerone@akrosis.com.
+If you have any questions about this Privacy Policy or the Service Provider's privacy practices, please contact support.cleanerone@akrosis.com.
